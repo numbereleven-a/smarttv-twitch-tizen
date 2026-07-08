@@ -30,6 +30,7 @@
 -   [In doubt open a issue](#in-doubt-open-a-issue)
 -   [Donations](#donations)
 -   [How to get the IP](#how-to-get-the-ip)
+-   [Download](#download)
 
 ## About the project
 
@@ -343,3 +344,8 @@ Mac System Preferences > Network.<br>
 
 Result<br>
 ![ip_3](https://fgl27.github.io/smarttv-twitch/screenshot/etc/mac_ip.jpg)
+
+## Download
+
+[![GitHub Latest](https://img.shields.io/github/v/release/numbereleven-a/smarttv-twitch-tizen)](https://github.com/numbereleven-a/smarttv-twitch-tizen/releases/latest)
+[![GitHub Downloads](https://img.shields.io/github/downloads/numbereleven-a/smarttv-twitch-tizen/total)](https://github.com/numbereleven-a/smarttv-twitch-tizen/releases)
